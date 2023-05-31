@@ -1,6 +1,6 @@
 # Proof of Reserve Python Script
 
-This is a Python script that helps you track and verify the proof of reserve for different token balances in a financial system. It allows you to record sessions with user IDs, token balances, and generates a total hash for each session.
+This is a nooby Python script that helps you track and verify the proof of reserve for different token balances. It allows you to record sessions with user IDs, token balances, and generates a total hash for each session.
 
 ## Prerequisites
 
