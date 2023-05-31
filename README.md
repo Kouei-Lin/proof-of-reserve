@@ -9,6 +9,8 @@ This is a Python script that helps you track and verify the proof of reserve for
 ## Getting Started
 
 1. Clone the repository or download the script file to your local machine.
+   ```shell
+   git clone https://github.com/Kouei-Lin/proof-of-reserve/
 
 2. Install the required dependencies by running the following command:
    ```shell
